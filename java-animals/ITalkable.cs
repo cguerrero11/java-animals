@@ -8,6 +8,5 @@ namespace java_animals
     {
         String talk();
 
-        String getName();
     }
 }

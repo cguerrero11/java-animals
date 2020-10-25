@@ -7,9 +7,11 @@ namespace java_animals
     {
         static void Main(string[] args)
         {
-            var zoo = new ArrayList();
-            Console.WriteLine("Hello World!");
-            zoo.Add("dog");
+            
+            UserInterface ui = new UserInterface();
+            ui.showInterface();
+            
+
         }
     }
 }

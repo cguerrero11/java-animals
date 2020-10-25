@@ -1,0 +1,13 @@
+C:\Users\coolc\Desktop\coding stuff\Mobile\java-animals\java-animals\bin\Debug\netcoreapp3.1\java-animals.exe
+C:\Users\coolc\Desktop\coding stuff\Mobile\java-animals\java-animals\bin\Debug\netcoreapp3.1\java-animals.deps.json
+C:\Users\coolc\Desktop\coding stuff\Mobile\java-animals\java-animals\bin\Debug\netcoreapp3.1\java-animals.runtimeconfig.json
+C:\Users\coolc\Desktop\coding stuff\Mobile\java-animals\java-animals\bin\Debug\netcoreapp3.1\java-animals.runtimeconfig.dev.json
+C:\Users\coolc\Desktop\coding stuff\Mobile\java-animals\java-animals\bin\Debug\netcoreapp3.1\java-animals.dll
+C:\Users\coolc\Desktop\coding stuff\Mobile\java-animals\java-animals\bin\Debug\netcoreapp3.1\java-animals.pdb
+C:\Users\coolc\Desktop\coding stuff\Mobile\java-animals\java-animals\obj\Debug\netcoreapp3.1\java-animals.csprojAssemblyReference.cache
+C:\Users\coolc\Desktop\coding stuff\Mobile\java-animals\java-animals\obj\Debug\netcoreapp3.1\java-animals.AssemblyInfoInputs.cache
+C:\Users\coolc\Desktop\coding stuff\Mobile\java-animals\java-animals\obj\Debug\netcoreapp3.1\java-animals.AssemblyInfo.cs
+C:\Users\coolc\Desktop\coding stuff\Mobile\java-animals\java-animals\obj\Debug\netcoreapp3.1\java-animals.csproj.CoreCompileInputs.cache
+C:\Users\coolc\Desktop\coding stuff\Mobile\java-animals\java-animals\obj\Debug\netcoreapp3.1\java-animals.dll
+C:\Users\coolc\Desktop\coding stuff\Mobile\java-animals\java-animals\obj\Debug\netcoreapp3.1\java-animals.pdb
+C:\Users\coolc\Desktop\coding stuff\Mobile\java-animals\java-animals\obj\Debug\netcoreapp3.1\java-animals.genruntimeconfig.cache

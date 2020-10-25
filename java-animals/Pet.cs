@@ -4,15 +4,11 @@ using System.Text;
 
 namespace java_animals
 {
-    abstract class Pet
+     class Pet
     {
-        private String Name { get; }
+        public String Name { get; set; }
 
-        public Pet(String petname)
-        {
-            Name = petname;
-        }
 
-        
+
     }
 }
